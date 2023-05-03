@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/NMB-Lab/reactadmin-casdoor-authprovider/issues"
   },
-  "homepage": "https://github.com/NMB-Lab/reactadmin-casdoor-authprovider#readme"
+  "homepage": "https://github.com/NMB-Lab/reactadmin-casdoor-authprovider#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
