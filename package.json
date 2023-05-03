@@ -1,0 +1,24 @@
+{
+  "name": "reactadmin-casdoor-authprovider",
+  "version": "1.0.0",
+  "description": "reactadmin auth provider for casdoor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMB-Lab/reactadmin-casdoor-authprovider.git"
+  },
+  "keywords": [
+    "auth",
+    "casdoor",
+    "reactoadmin"
+  ],
+  "author": "alexander.kriventsev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NMB-Lab/reactadmin-casdoor-authprovider/issues"
+  },
+  "homepage": "https://github.com/NMB-Lab/reactadmin-casdoor-authprovider#readme"
+}
