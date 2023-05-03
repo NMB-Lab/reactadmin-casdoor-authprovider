@@ -44,6 +44,6 @@ export default App;
 
 ## Casdoor configuration
 
-Set callback uri on your application settings to /#.auth-callback like at the picture
+Set callback uri on your application settings to ```/#/auth-callback``` like at the picture
 
 ![callback settings](/img/callback.png "callback settings")
